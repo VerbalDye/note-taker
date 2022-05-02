@@ -1,6 +1,14 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Jack",
+      "text": "Get some eggs",
+      "id": "cl2ow5f670002s0gfa7z88aqo"
+    },
+    {
+      "title": "Get Milk",
+      "text": "We need more milk",
+      "id": "cl2ow61740003s0gfho9v51yb"
     }
-]
+  ]
+}
